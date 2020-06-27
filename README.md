@@ -1,4 +1,4 @@
-# Principal Component Analysis vs Singular Value Decomposition
+### Principal Component Analysis vs Singular Value Decomposition
 
 PCA is an important technique in the fields of statistics and data science. PCA in line with SVD both are some of the most important linear algebra concepts in machine learning. 
 
