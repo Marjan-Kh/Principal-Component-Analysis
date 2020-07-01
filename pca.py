@@ -1,12 +1,11 @@
-# The goal of this program:
+# The goal of this program is to see how
+# principal component analysis works, and
+# on what type of problems can be applied.
 
-# 1) how principal component analysis works.
-# 2) On what type of problems can be applied.
-
-#============================================
+#========================================
 # Author: Marjan Khamesian
 # Date: June 2020
-#============================================
+#========================================
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as pl
